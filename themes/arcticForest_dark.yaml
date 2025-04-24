@@ -62,7 +62,8 @@ arcticForest_dark:
   clear-background-color: 'var(--accent-color)'
 
   # Card
-  ha-card-background: 'rgba(97,107,126,1)'
+  ha-card-background: '#616b7e'
+  # ha-card-background: 'rgba(97,107,126,1)'
   card-background-color: 'var(--ha-card-background)'
   ha-card-box-shadow: "3px 3px 13px -6px rgba(17,35,52,1)"
   ha-card-border-radius: "5px"
