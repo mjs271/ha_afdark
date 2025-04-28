@@ -12,12 +12,14 @@ arcticForest_dark:
   ha-card-header-font-family: "var(--primary-font-family)"
 
   # Main Colors
-  app-header-background-color: '#2f383e'
+  # '#2f383e'
+  app-header-background-color: '#2bd64b'
   header-height: 48px
   accent-color: '#5392c0'
   accent-medium-color: 'var(--accent-color)'
   dark-primary-color: 'var(--accent-color)'
-  paper-card-background-color: '#2f383e'
+  # '#2f383e'
+  paper-card-background-color: '#b3d62b'
 
   # Background
   background-color: '#2f383e'
