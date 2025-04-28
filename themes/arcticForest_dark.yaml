@@ -22,7 +22,8 @@ arcticForest_dark:
   paper-card-background-color: '#b3d62b'
 
   # Background
-  background-color: '#2f383e'
+  # '#2f383e'
+  background-color: '#b72bd6'
   primary-background-color: 'var(--background-color)'
   background-color-2: '#3c444b'
   secondary-background-color: '#32404b'
