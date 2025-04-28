@@ -11,6 +11,24 @@ arcticForest_dark:
   paper-font-title_-_font-family: "var(--primary-font-family)"
   ha-card-header-font-family: "var(--primary-font-family)"
 
+  # Main Colors
+  app-header-background-color: '#2f383e'
+  header-height: 48px
+  accent-color: '#5392c0'
+  accent-medium-color: 'var(--accent-color)'
+  dark-primary-color: 'var(--accent-color)'
+  paper-card-background-color: '#2f383e'
+
+  # Background
+  background-color: '#2f383e'
+  primary-background-color: 'var(--background-color)'
+  background-color-2: '#3c444b'
+  secondary-background-color: '#32404b'
+  markdown-code-background-color: 'var(--background-color)'
+  material-background-color: "var(--background-color)"
+  material-secondary-background-color: '#616b7e'
+  clear-background-color: 'var(--accent-color)'
+
   # Text
   text-color: '#d3c6aa'
   primary-text-color: 'var(--text-color)'
@@ -42,24 +60,6 @@ arcticForest_dark:
   input-outlined-disabled-border-color: 'var(--disabled-text-color)'
   code-editor-background-color: '#2c3339'
   codemirror-property: 'var(--accent-color)'
-
-  # Main Colors
-  app-header-background-color: '#2f383e'
-  header-height: 48px
-  accent-color: '#5392c0'
-  accent-medium-color: 'var(--accent-color)'
-  dark-primary-color: 'var(--accent-color)'
-  paper-card-background-color: 'var(--background-color)'
-
-  # Background
-  background-color: '#2f383e'
-  primary-background-color: 'var(--background-color)'
-  background-color-2: '#3c444b'
-  secondary-background-color: '#32404b'
-  markdown-code-background-color: 'var(--background-color)'
-  material-background-color: "var(--paper-listbox-background-color)"
-  material-secondary-background-color: 'var(--ha-card-background)'
-  clear-background-color: 'var(--accent-color)'
 
   # Card
   ha-card-background: '#616b7e'
@@ -104,6 +104,8 @@ arcticForest_dark:
   state-red-color: '#d88382'
   state-green-color: '#478667'
   state-orange-color: '#d5a236'
+  amber-color: '#d5781e'
+  indigo-color: '#3d1a97'
   state-alarm_control_panel-armed_away-color: 'var(--state-green-color)'
   state-alarm_control_panel-armed_custom_bypass-color: 'var(--state-green-color)'
   state-alarm_control_panel-armed_home-color: 'var(--state-green-color)'
@@ -165,7 +167,7 @@ arcticForest_dark:
   sidebar-icon-color: '#8cb9b2'
   sidebar-selected-icon-color: 'var(--accent-color)'
   sidebar-selected-text-color: 'var(--text-color)'
-  paper-listbox-background-color: 'var(--sidebar-background-color)'
+  paper-listbox-background-color: 'var(--background-color)'
   divider-color: 'var(--background-color)'
 
   # Sliders
@@ -191,7 +193,8 @@ arcticForest_dark:
   switch-checked-button-color: 'var(--accent-color)'
   switch-unchecked-track-color: 'var(--background-color-2)'
   switch-checked-track-color: 'var(--background-color-2)'
-  switch-checked-color: 'var(--paper-toggle-button-checked-button-color)'
+  switch-checked-color: 'var(--accent-color)'
+  # switch-checked-color: 'var(--paper-toggle-button-checked-button-color)'
   switch-unchecked-button-color: 'var(--disabled-text-color)'
 
   # Radio Button
