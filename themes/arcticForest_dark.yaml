@@ -45,7 +45,7 @@ arcticForest_dark:
   primary-background-color: '#2f383e'
   secondary-background-color: '#32404b'
   st-mode-background: '#2f383e'
-  card-background-color: 'rgba(43,55,78,1)'
+  card-background-color: '#8bc34a'
 
   ha-card-background: '#8bc34a'
   ha-card-border-color: 'rgba(0,0,0,0)'
@@ -66,16 +66,16 @@ arcticForest_dark:
   outline-color: 'rgba(0, 0, 0, 0.12)'
   outline-hover-color: 'rgba(0, 0, 0, 0.24)'
 
-  data-table-background-color: 'rgba(43,55,78,1)'
+  data-table-background-color: '#8bc34a'
   table-header-background-color: '#2f383e'
-  table-row-alternative-background-color: 'rgba(43,55,78,1)'
+  table-row-alternative-background-color: '#8bc34a'
   table-row-background-color: '#2f383e'
 
   accent-medium-color: '#5392c0'
 
   mini-media-player-accent-color: '#5392c0'
   mini-media-player-base-color: '#d3c6aa'
-  mini-media-player-button-color: 'rgba(43,55,78,1)'
+  mini-media-player-button-color: '#8bc34a'
 
   text-medium-color: '#dedcaf'
   text-medium-light-color: '#ebe3ce'
@@ -267,7 +267,7 @@ arcticForest_dark:
   material-primary-color: '#5392c0'
   material-primary-contrast-color: '#fff'
   material-background-color: '#2f383e'
-  material-secondary-background-color: 'rgba(43,55,78,1)'
+  material-secondary-background-color: '#8bc34a'
   material-body-text-color: '#d3c6aa'
   material-disabled-text-color: 'rgba(0, 0, 0, 0.38)'
   material-error-text-color: '#db4437'
@@ -289,7 +289,7 @@ arcticForest_dark:
   mdc-theme-text-primary-on-background: '#d3c6aa'
   mdc-theme-text-secondary-on-background: '#92acc6'
   mdc-theme-error: '#db4437'
-  mdc-theme-surface: 'rgba(43,55,78,1)'
+  mdc-theme-surface: '#8bc34a'
 
   mdc-text-field-disabled-fill-color: '#2f383e'
   mdc-text-field-disabled-ink-color: '#879189'
