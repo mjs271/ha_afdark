@@ -47,7 +47,7 @@ arcticForest_dark:
   st-mode-background: '#2f383e'
   card-background-color: 'rgba(43,55,78,1)'
 
-  ha-card-background: 'rgba(43,55,78,1)'
+  ha-card-background: '#8bc34a'
   ha-card-border-color: 'rgba(0,0,0,0)'
   ha-card-header-color: '#d3c6aa'
 
