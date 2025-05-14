@@ -1,5 +1,12 @@
 arcticForest_dark:
 
+  # TODO
+  #   - [x] radio button bg is too dark
+  #   - [ ] text input field bg should be slightly lighter
+  #   - [ ] dropdown bg should be same as/similar to text
+  #   - [ ] differentiate both fields btw disabled/enabled
+  #   - [ ] make both different from bg color
+
   amber-color: '#ffc107'
   black-color: '#000000'
   blue-color: '#2196f3'
@@ -32,9 +39,9 @@ arcticForest_dark:
   warning-color: '#ffa600'
   error-color: '#db4437'
   disabled-color: '#bdbdbd'
-  divider-color: '#2196f3'
+  divider-color: '#3c444b'
 
-  background-color: '#2196f3'
+  background-color: '#3c444b'
   background-color-2: '#3c444b'
 
   chip-background-color: 'rgba(33,33,33, 0.15)'
@@ -42,16 +49,16 @@ arcticForest_dark:
   code-editor-background-color: '#2c3339'
   markdown-code-background-color: '#2196f3'
   more-info-header-background: '#32404b'
-  primary-background-color: '#2196f3'
+  primary-background-color: '#3c444b'
   secondary-background-color: '#32404b'
-  st-mode-background: '#2196f3'
-  card-background-color: '#8bc34a'
+  st-mode-background: '#3c444b'
+  card-background-color: '#32404b'
 
-  ha-card-background: '#8bc34a'
+  ha-card-background: '#32404b'
   ha-card-border-color: 'rgba(0,0,0,0)'
   ha-card-header-color: '#d3c6aa'
 
-  sidebar-background-color: '#2196f3'
+  sidebar-background-color: '#3c444b'
   sidebar-icon-color: '#8cb9b2'
   sidebar-selected-icon-color: '#5392c0'
   sidebar-selected-text-color: '#d3c6aa'
@@ -59,23 +66,23 @@ arcticForest_dark:
 
   scrollbar-thumb-color: 'rgb(194, 194, 194)'
 
-  app-theme-color: '#2196f3'
-  app-header-background-color: '#2196f3'
+  app-theme-color: '#8cb9b2'
+  app-header-background-color: '#3c444b'
   app-header-text-color: '#d3c6aa'
 
   outline-color: 'rgba(0, 0, 0, 0.12)'
   outline-hover-color: 'rgba(0, 0, 0, 0.24)'
 
-  data-table-background-color: '#8bc34a'
-  table-header-background-color: '#2196f3'
-  table-row-alternative-background-color: '#8bc34a'
-  table-row-background-color: '#2196f3'
+  data-table-background-color: '#32404b'
+  table-header-background-color: '#32404b'
+  table-row-alternative-background-color: '#32404b'
+  table-row-background-color: '#3c444b'
 
   accent-medium-color: '#5392c0'
 
   mini-media-player-accent-color: '#5392c0'
   mini-media-player-base-color: '#d3c6aa'
-  mini-media-player-button-color: '#8bc34a'
+  mini-media-player-button-color: '#8cb9b2'
 
   text-medium-color: '#dedcaf'
   text-medium-light-color: '#ebe3ce'
@@ -87,10 +94,10 @@ arcticForest_dark:
   text-light-primary-color: '#d3c6aa'
 
   switch-checked-button-color: '#5392c0'
-  switch-checked-track-color: '#3c444b'
+  switch-checked-track-color: '#879189'
   switch-unchecked-button-color: '#879189'
   switch-unchecked-color: '#70889e'
-  switch-unchecked-track-color: '#3c444b'
+  switch-unchecked-track-color: '#bdbdbd'
 
   input-disabled-fill-color: '#2196f3'
   input-disabled-ink-color: '#879189'
@@ -266,8 +273,8 @@ arcticForest_dark:
 
   material-primary-color: '#5392c0'
   material-primary-contrast-color: '#fff'
-  material-background-color: '#2196f3'
-  material-secondary-background-color: '#8bc34a'
+  material-background-color: '#3c444b'
+  material-secondary-background-color: '#32404b'
   material-body-text-color: '#d3c6aa'
   material-disabled-text-color: 'rgba(0, 0, 0, 0.38)'
   material-error-text-color: '#db4437'
@@ -279,7 +286,7 @@ arcticForest_dark:
 
   mdc-theme-primary: '#5392c0'
   mdc-theme-secondary: '#5392c0'
-  mdc-theme-background: '#2196f3'
+  mdc-theme-background: '#3c444b'
   mdc-theme-on-primary: '#d3c6aa'
   mdc-theme-on-secondary: '#d3c6aa'
   mdc-theme-on-surface: '#d3c6aa'
@@ -289,12 +296,12 @@ arcticForest_dark:
   mdc-theme-text-primary-on-background: '#d3c6aa'
   mdc-theme-text-secondary-on-background: '#92acc6'
   mdc-theme-error: '#db4437'
-  mdc-theme-surface: '#8bc34a'
+  mdc-theme-surface: '#32404b'
 
-  mdc-text-field-disabled-fill-color: '#2196f3'
+  mdc-text-field-disabled-fill-color: '#3c444b'
   mdc-text-field-disabled-ink-color: '#879189'
   mdc-text-field-disabled-line-color: '#879189'
-  mdc-text-field-fill-color: '#2e3b53'
+  mdc-text-field-fill-color: '#3c444b'
   mdc-text-field-hover-line-color: '#5392c0'
   mdc-text-field-idle-line-color: '#2196f3'
   mdc-text-field-ink-color: '#d3c6aa'
@@ -313,12 +320,12 @@ arcticForest_dark:
   mdc-radio-disabled-color: '#879189'
   mdc-radio-unchecked-color: 'rgba(33,33,33, 0.54)'
   mdc-select-disabled-dropdown-icon-color: '#879189'
-  mdc-select-disabled-fill-color: '#2196f3'
+  mdc-select-disabled-fill-color: '#3c444b'
   mdc-select-disabled-ink-color: '#879189'
   mdc-select-dropdown-icon-color: '#92acc6'
-  mdc-select-fill-color: '#2e3b53'
+  mdc-select-fill-color: '#3c444b'
   mdc-select-hover-line-color: '#5392c0'
-  mdc-select-idle-line-color: '#2196f3'
+  mdc-select-idle-line-color: '#3c444b'
   mdc-select-ink-color: '#d3c6aa'
   mdc-select-outlined-disabled-border-color: '#879189'
   mdc-select-outlined-hover-border-color: '#879189'
