@@ -6,6 +6,8 @@ arcticForest_dark:
   #   - [ ] dropdown bg should be same as/similar to text
   #   - [ ] differentiate both fields btw disabled/enabled
   #   - [ ] make both different from bg color
+  #   - [ ] notify badge doesn't look great as orange
+  #   - [ ] better red for "restart" text
 
   amber-color: '#ffc107'
   black-color: '#000000'
@@ -40,6 +42,7 @@ arcticForest_dark:
   error-color: '#db4437'
   disabled-color: '#bdbdbd'
   divider-color: '#3c444b'
+  accent-color: '#d5a236'
 
   background-color: '#3c444b'
   background-color-2: '#3c444b'
@@ -272,7 +275,7 @@ arcticForest_dark:
   paper-toggle-button-unchecked-ink-color: '#879189'
 
   material-primary-color: '#5392c0'
-  material-primary-contrast-color: '#fff'
+  material-primary-contrast-color: '#478667'
   material-background-color: '#3c444b'
   material-secondary-background-color: '#32404b'
   material-body-text-color: '#d3c6aa'
