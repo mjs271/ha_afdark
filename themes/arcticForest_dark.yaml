@@ -3,8 +3,9 @@ arcticForest_dark:
   # TODO
   #   - [x] radio button bg is too dark
   #   - [ ] media player bg light-gray is bad
+  #     - something about the kiosk page makes this annoying
   #   - [ ] text input field bg should be slightly lighter
-  #   - [ ] dropdown bg should be same as/similar to text
+  #   - [ ] (input-)dropdown bg should be same as/similar to text
   #   - [ ] differentiate both fields btw disabled/enabled
   #   - [ ] make both different from bg color
   #   - [x] notify badge doesn't look great as orange
@@ -102,8 +103,8 @@ arcticForest_dark:
 
   switch-checked-button-color: '#5392c0'
   switch-checked-track-color: '#879189'
-  switch-unchecked-button-color: '#879189'
-  switch-unchecked-color: '#70889e'
+  switch-unchecked-button-color: '#70889e'
+  # switch-unchecked-color: '#70889e'
   switch-unchecked-track-color: '#bdbdbd'
 
   input-disabled-fill-color: '#2196f3'
@@ -151,7 +152,7 @@ arcticForest_dark:
   state-active-color: '#5392c0'
   state-inactive-color: '#9e9e9e'
 
-  state-unavailable-color: '#879189'
+  state-unavailable-color: '#8496a5'
 
   state-alert-off-color: '#ecdfc2'
   state-alert-on-color: '#d88382'
@@ -171,12 +172,22 @@ arcticForest_dark:
   state-binary_sensor-sound-on-color: '#d88382'
   state-binary_sensor-tamper-on-color: '#d88382'
 
-  state-climate-auto-color: '#5392c0'
+  # state-climate-auto-color: '#698cc7'
+  # state-climate-auto-color: '#6c92c8'
+  # state-climate-auto-color: '#7d97bc'
+  state-climate-auto-color: '#a1acbc'
   state-climate-cool-color: '#5392c0'
   state-climate-dry-color: '#5392c0'
   state-climate-fan_only-color: '#5392c0'
-  state-climate-heat-color: '#d5a236'
+  # state-climate-heat-color: '#d5a236'
+  # state-climate-heat-color: '#eda236'
+  state-climate-heat-color: '#ed8c36'
   state-climate-heat-cool-color: '#5392c0'
+
+  # control-circular-slider-background: '#926bc7'
+  # control-circular-slider-color: '#926bc7'
+  # control-circular-slider-low-color: '#926bc7'
+  # control-circular-slider-high-color: '#926bc7'
 
   state-cover-active-color: '#5392c0'
 
@@ -307,10 +318,10 @@ arcticForest_dark:
   mdc-theme-error: '#db4437'
   mdc-theme-surface: '#32404b'
 
-  mdc-text-field-disabled-fill-color: '#3c444b'
+  mdc-text-field-disabled-fill-color: '#4a5151'
   mdc-text-field-disabled-ink-color: '#879189'
   mdc-text-field-disabled-line-color: '#879189'
-  mdc-text-field-fill-color: '#3c444b'
+  mdc-text-field-fill-color: '#596060'
   mdc-text-field-hover-line-color: '#5392c0'
   mdc-text-field-idle-line-color: '#2196f3'
   mdc-text-field-ink-color: '#d3c6aa'
@@ -329,10 +340,11 @@ arcticForest_dark:
   mdc-radio-disabled-color: '#879189'
   mdc-radio-unchecked-color: 'rgba(33,33,33, 0.54)'
   mdc-select-disabled-dropdown-icon-color: '#879189'
-  mdc-select-disabled-fill-color: '#3c444b'
+  mdc-select-disabled-fill-color: '#4a5151'
   mdc-select-disabled-ink-color: '#879189'
   mdc-select-dropdown-icon-color: '#92acc6'
-  mdc-select-fill-color: '#3c444b'
+  # mdc-select-fill-color: '#3d5756'
+  mdc-select-fill-color: '#596060'
   mdc-select-hover-line-color: '#5392c0'
   mdc-select-idle-line-color: '#3c444b'
   mdc-select-ink-color: '#d3c6aa'
@@ -341,6 +353,9 @@ arcticForest_dark:
   mdc-select-outlined-idle-border-color: '#879189'
   mdc-select-label-ink-color: '#d3c6aa'
   mdc-tab-text-label-color-default: '#d3c6aa'
+
+  # md-sys-color-secondary: '#926bc7'
+  # md-sys-color-on-surface-variant: '#926bc7'
 
   lumo-base-color: '#2196f3'
   lumo-primary-color: '#5392c0'
