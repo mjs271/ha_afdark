@@ -46,7 +46,10 @@ arcticForest_dark:
   # disabled-color: '#2196f3'
   divider-color: '#3c444b'
   accent-color: '#be7373'
+#   accent-color: '#1A89F5'
   text-accent-color: '#fff2d4'
+
+#   state-sensor-temperature-color: '#1A89F5'
 
   background-color: '#3c444b'
   background-color-2: '#3c444b'
@@ -412,3 +415,8 @@ arcticForest_dark:
   #     :host {
   #       --ha-card-box-shadow: none;
   #     }
+
+# Use this on entity history plots if you don't care for the pink color there
+arcticForest_alt:
+#   accent-color: '#ffc107'
+  accent-color: '#d5a236'
