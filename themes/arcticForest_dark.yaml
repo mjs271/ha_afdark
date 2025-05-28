@@ -8,6 +8,7 @@ arcticForest_dark:
   #   - [ ] (input-)dropdown bg should be same as/similar to text
   #   - [ ] differentiate both fields btw disabled/enabled
   #   - [ ] make both different from bg color
+  #   - [ ] make entity history plot yellow less ugly greenish
   #   - [x] notify badge doesn't look great as orange
   #   - [x] better red for "restart" text
 
@@ -36,7 +37,7 @@ arcticForest_dark:
   deep-purple-color: '#6e41ab'
 
   primary-color: '#5392c0'
-  light-primary-color: '#879189'
+  light-primary-color: '#3a94c5'
   dark-primary-color: '#5392c0'
   success-color: '#43a047'
   info-color: '#039be5'
@@ -56,7 +57,7 @@ arcticForest_dark:
 
   chip-background-color: 'rgba(33,33,33, 0.15)'
   clear-background-color: '#5392c0'
-  code-editor-background-color: '#2c3339'
+  code-editor-background-color: '#2f383e'
   markdown-code-background-color: '#2196f3'
   # more-info-header-background: '#28445b'
   more-info-header-background: '#243d51'
@@ -269,7 +270,7 @@ arcticForest_dark:
   state-alarm_control_panel-triggered-color: '#d88382'
 
   ha-assist-chip-active-container-color: 'rgba(3,169,244,0.15)'
-  ha-assist-chip-filled-container-color: 'rgba(33,33,33,0.15)'
+  # ha-assist-chip-filled-container-color: 'rgba(33,33,33,0.15)'
 
   history-unavailable-color: 'transparent'
   history-unknown-color: '#606060'
@@ -327,7 +328,7 @@ arcticForest_dark:
   mdc-text-field-disabled-fill-color: '#4a5151'
   mdc-text-field-disabled-ink-color: '#879189'
   mdc-text-field-disabled-line-color: '#879189'
-  mdc-text-field-fill-color: '#596060'
+  mdc-text-field-fill-color: '#232f39'
   mdc-text-field-hover-line-color: '#5392c0'
   mdc-text-field-idle-line-color: '#2196f3'
   mdc-text-field-ink-color: '#d3c6aa'
@@ -350,11 +351,11 @@ arcticForest_dark:
   mdc-select-disabled-ink-color: '#879189'
   mdc-select-dropdown-icon-color: '#92acc6'
   # mdc-select-fill-color: '#3d5756'
-  mdc-select-fill-color: '#596060'
+  mdc-select-fill-color: '#232f39'
   mdc-select-hover-line-color: '#5392c0'
   mdc-select-idle-line-color: '#3c444b'
   mdc-select-ink-color: '#d3c6aa'
-  mdc-select-outlined-disabled-border-color: '#879189'
+  mdc-select-outlined-disabled-border-color: '#404c51'
   mdc-select-outlined-hover-border-color: '#879189'
   mdc-select-outlined-idle-border-color: '#879189'
   mdc-select-label-ink-color: '#d3c6aa'
@@ -394,7 +395,37 @@ arcticForest_dark:
 
   swiper-theme-color: '#007aff'
 
-  codemirror-property: '#5392c0'
+  # codemirror-keyword: '#64a989'
+  codemirror-keyword: '#58a47e'
+  # codemirror-operator: '#89ddff'
+  # codemirror-variable: '#f07178'
+  # codemirror-variable-2: '#eeffff'
+  # codemirror-variable-3: '#decb6b'
+  # codemirror-builtin: '#ffcb6b'
+  # # codemirror-atom: '#f78c6c'
+  # codemirror-atom: '#3a94c5'
+  codemirror-atom: '#E69875'
+  codemirror-number: '#d699b6'
+  # codemirror-def: '#82aaff'
+  codemirror-string: '#dfa000'
+  # codemirror-string-2: '#f07178'
+  codemirror-comment: '#859289'
+  # codemirror-tag: '#ff5370'
+  # codemirror-meta: '#ffcb6b'
+  # codemirror-attribute: '#c792ea'
+  # # codemirror-property: '#c792ea'
+  # codemirror-property: '#5392c0'
+  codemirror-property: '#3a94c5'
+  # codemirror-qualifier: '#decb6b'
+  # codemirror-type: '#decb6b'
+
+  # ha-assist-chip-filled-container-color: '#967EFB'
+  # md-assist-chip-outline-color: '#967EFB'
+  # md-ripple-hover-color: '#967EFB'
+  # md-ripple-pressed-color: '#967EFB'
+  # md-sys-color-on-surface: '#967EFB'
+  # md-sys-color-primary: '#967EFB'
+
 ##################
 
 
