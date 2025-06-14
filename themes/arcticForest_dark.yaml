@@ -433,25 +433,7 @@ arcticForest_dark:
 ##################
 
 
-  # card-mod-theme: noctis
-
-  # card-mod-more-info-yaml: |
-  #   $: |
-  #     .mdc-dialog .mdc-dialog__scrim {
-  #       backdrop-filter: blur(15px);
-  #       -webkit-backdrop-filter: blur(15px);
-  #       background: rgba(0,0,0,.6);
-  #     }
-  #     .mdc-dialog .mdc-dialog__container .mdc-dialog__surface {
-  #       box-shadow: none !important;
-  #       border-radius: var(--ha-card-border-radius);
-  #     }
-  #   .: |
-  #     :host {
-  #       --ha-card-box-shadow: none;
-  #     }
-
-# Use this on entity history plots if you don't care for the pink color there
+# Use this on entity history plots if you don't care for the orange color there
 arcticForest_alt:
 #   accent-color: '#ffc107'
   accent-color: '#d5a236'
