@@ -8,6 +8,8 @@ This started for me when I got really into [@sainnhe](https://github.com/sainnhe
 
 ## License
 
-[ArcticForest Dark for Home Assistant](https://creativecommons.org) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![cc](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
+FIXME: link to repo
 
-<!-- <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"> -->
+[ArcticForest Dark for Home Assistant](https://github.com/mjs271/ha_afdark) © 2025 by [mjs271](https://github.com/mjs271) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="28" height="28"> <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" width="28" height="28"> <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" width="28" height="28"> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" width="28" height="28">
