@@ -44,16 +44,9 @@ arcticForest_dark:
   warning-color: '#ffa600'
   error-color: '#e56058'
   disabled-color: '#bdbdbd'
-  # disabled-color: '#2196f3'
   divider-color: '#3c444b'
-#   accent-color: '#be7373'
-#   accent-color: '#d59822'
-#   accent-color: '#cf9838'
   accent-color: '#d99838'
-#   accent-color: '#1A89F5'
   text-accent-color: '#fff2d4'
-
-#   state-sensor-temperature-color: '#1A89F5'
 
   background-color: '#3c444b'
   background-color-2: '#3c444b'
@@ -62,15 +55,12 @@ arcticForest_dark:
   clear-background-color: '#5392c0'
   code-editor-background-color: '#2f383e'
   markdown-code-background-color: '#454e56'
-  # more-info-header-background: '#28445b'
   more-info-header-background: '#243d51'
   primary-background-color: '#3c444b'
   secondary-background-color: '#32404b'
   st-mode-background: '#3c444b'
-  # card-background-color: '#28445b'
   card-background-color: '#243d51'
 
-  # ha-card-background: '#28445b'
   ha-card-background: '#243d51'
   ha-card-border-color: 'rgba(0,0,0,0)'
   ha-card-header-color: '#d3c6aa'
@@ -114,14 +104,12 @@ arcticForest_dark:
   switch-checked-button-color: '#5392c0'
   switch-checked-track-color: '#879189'
   switch-unchecked-button-color: '#70889e'
-  # switch-unchecked-color: '#70889e'
   switch-unchecked-track-color: '#bdbdbd'
 
   input-disabled-fill-color: '#2196f3'
   input-disabled-ink-color: '#879189'
   input-disabled-line-color: '#879189'
   input-disabled-label-ink-color: '#879189'
-  # input-fill-color: '#23556b'
   input-fill-color: '#2d586b'
   input-label-ink-color: '#d3c6aa'
   input-dropdown-icon-color: '#92acc6'
@@ -183,22 +171,12 @@ arcticForest_dark:
   state-binary_sensor-sound-on-color: '#d88382'
   state-binary_sensor-tamper-on-color: '#d88382'
 
-  # state-climate-auto-color: '#698cc7'
-  # state-climate-auto-color: '#6c92c8'
-  # state-climate-auto-color: '#7d97bc'
   state-climate-auto-color: '#a1acbc'
   state-climate-cool-color: '#5392c0'
   state-climate-dry-color: '#5392c0'
   state-climate-fan_only-color: '#5392c0'
-  # state-climate-heat-color: '#d5a236'
-  # state-climate-heat-color: '#eda236'
   state-climate-heat-color: '#ed8c36'
   state-climate-heat-cool-color: '#5392c0'
-
-  # control-circular-slider-background: '#926bc7'
-  # control-circular-slider-color: '#926bc7'
-  # control-circular-slider-low-color: '#926bc7'
-  # control-circular-slider-high-color: '#926bc7'
 
   state-cover-active-color: '#5392c0'
 
@@ -206,7 +184,6 @@ arcticForest_dark:
   state-device_tracker-home-color: '#5392c0'
 
   state-fan-active-color: '#5392c0'
-
 
   state-group-active-color: '#5392c0'
 
@@ -230,8 +207,6 @@ arcticForest_dark:
   state-lock-unlocking-color: '#ff9800'
 
   state-media_player-active-color: '#5392c0'
-  # state-media_player-off-color: '#5392c0'
-  # state-media_player-no-progress-color: '#5392c0'
 
   state-person-active-color: '#5392c0'
   state-person-home-color: '#5392c0'
@@ -274,7 +249,6 @@ arcticForest_dark:
   state-alarm_control_panel-triggered-color: '#d88382'
 
   ha-assist-chip-active-container-color: 'rgba(3,169,244,0.15)'
-  # ha-assist-chip-filled-container-color: 'rgba(33,33,33,0.15)'
 
   history-unavailable-color: 'transparent'
   history-unknown-color: '#606060'
@@ -354,7 +328,6 @@ arcticForest_dark:
   mdc-select-disabled-fill-color: '#4a5151'
   mdc-select-disabled-ink-color: '#879189'
   mdc-select-dropdown-icon-color: '#92acc6'
-  # mdc-select-fill-color: '#3d5756'
   mdc-select-fill-color: '#232f39'
   mdc-select-hover-line-color: '#5392c0'
   mdc-select-idle-line-color: '#3c444b'
@@ -364,9 +337,6 @@ arcticForest_dark:
   mdc-select-outlined-idle-border-color: '#879189'
   mdc-select-label-ink-color: '#d3c6aa'
   mdc-tab-text-label-color-default: '#d3c6aa'
-
-  # md-sys-color-secondary: '#926bc7'
-  # md-sys-color-on-surface-variant: '#926bc7'
 
   lumo-base-color: '#2196f3'
   lumo-primary-color: '#5392c0'
@@ -399,59 +369,17 @@ arcticForest_dark:
 
   swiper-theme-color: '#007aff'
 
-  # codemirror-keyword: '#64a989'
   codemirror-keyword: '#58a47e'
-  # codemirror-operator: '#89ddff'
-  # codemirror-variable: '#f07178'
-  # codemirror-variable-2: '#eeffff'
-  # codemirror-variable-3: '#decb6b'
-  # codemirror-builtin: '#ffcb6b'
-  # # codemirror-atom: '#f78c6c'
-  # codemirror-atom: '#3a94c5'
   codemirror-atom: '#E69875'
   codemirror-number: '#d699b6'
-  # codemirror-def: '#82aaff'
   codemirror-string: '#dfa000'
-  # codemirror-string-2: '#f07178'
   codemirror-comment: '#859289'
-  # codemirror-tag: '#ff5370'
-  # codemirror-meta: '#ffcb6b'
-  # codemirror-attribute: '#c792ea'
-  # # codemirror-property: '#c792ea'
-  # codemirror-property: '#5392c0'
   codemirror-property: '#3a94c5'
-  # codemirror-qualifier: '#decb6b'
-  # codemirror-type: '#decb6b'
 
-  # ha-assist-chip-filled-container-color: '#967EFB'
-  # md-assist-chip-outline-color: '#967EFB'
-  # md-ripple-hover-color: '#967EFB'
-  # md-ripple-pressed-color: '#967EFB'
-  # md-sys-color-on-surface: '#967EFB'
-  # md-sys-color-primary: '#967EFB'
 
 ##################
 
-
-  # card-mod-theme: noctis
-
-  # card-mod-more-info-yaml: |
-  #   $: |
-  #     .mdc-dialog .mdc-dialog__scrim {
-  #       backdrop-filter: blur(15px);
-  #       -webkit-backdrop-filter: blur(15px);
-  #       background: rgba(0,0,0,.6);
-  #     }
-  #     .mdc-dialog .mdc-dialog__container .mdc-dialog__surface {
-  #       box-shadow: none !important;
-  #       border-radius: var(--ha-card-border-radius);
-  #     }
-  #   .: |
-  #     :host {
-  #       --ha-card-box-shadow: none;
-  #     }
-
-# Use this on entity history plots if you don't care for the pink color there
+# Use this on entity history plots if you don't care for the particular orange
+# color there
 arcticForest_alt:
-#   accent-color: '#ffc107'
   accent-color: '#d5a236'
