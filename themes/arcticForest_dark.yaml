@@ -46,7 +46,10 @@ arcticForest_dark:
   disabled-color: '#bdbdbd'
   # disabled-color: '#2196f3'
   divider-color: '#3c444b'
-  accent-color: '#be7373'
+#   accent-color: '#be7373'
+#   accent-color: '#d59822'
+#   accent-color: '#cf9838'
+  accent-color: '#d99838'
 #   accent-color: '#1A89F5'
   text-accent-color: '#fff2d4'
 
