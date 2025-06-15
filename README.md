@@ -15,7 +15,28 @@ I also want to give credit to aFFekopp's [Noctis](https://github.com/aFFekopp/no
 
 ## Images
 
-WIP
+![dashboard](img/dashboard1.png)
+
+![dashboard](img/dashboard2.png)
+
+![dashboard](img/dashboard3.png)
+
+![dashboard](img/dashboard4.png)
+
+![energy](img/energy.png)
+
+![automation](img/automation.png)
+
+FIXME: make these smaller
+
+<!-- ![trace](img/trace.png) -->
+<img src="img/trace.png" width="100">
+
+![addon](img/addon1.png)
+
+![addon](img/addon2.png)
+
+![integration](img/integration.png)
 
 ## License
 
