@@ -30,13 +30,16 @@ I also want to give credit to aFFekopp's [Noctis](https://github.com/aFFekopp/no
 FIXME: make these smaller
 
 <!-- ![trace](img/trace.png) -->
-<img src="img/trace.png" width="100">
+<img src="img/trace.png" width="700">
 
-![addon](img/addon1.png)
+<!-- ![addon](img/addon1.png) -->
+<img src="img/addon1.png" width="600">
 
-![addon](img/addon2.png)
+<!-- ![addon](img/addon2.png) -->
+<img src="img/addon2.png" width="800">
 
-![integration](img/integration.png)
+<!-- ![integration](img/integration.png) -->
+<img src="img/integration.png" width="800">
 
 ## License
 
