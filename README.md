@@ -25,9 +25,9 @@ I also want to give credit to aFFekopp's [Noctis](https://github.com/aFFekopp/no
 
 ## Images
 
-![dashboard](img/dashboard1.png) | ![dashboard](img/dashboard2.png)
+![dashboard](img/dashboard21.png) | ![dashboard](img/dashboard22.png)
 :-------------------------:|:-------------------------:
-![dashboard](img/dashboard3.png) | ![dashboard](img/dashboard4.png)
+![dashboard](img/dashboard23.png) | ![energy](img/energy2.png)
 
 <!-- ![dashboard](img/dashboard1.png) -->
 
@@ -72,13 +72,13 @@ these instructions, please do and submit a PR!
 - Restart home-assistant.
   - At minimum, you must fully reload the yaml configuration at
     - ***Developer Tools*** > ***YAML*** > ***YAML configuration reloading***
-      > ***ALL YAML CONFIGURATION***.
+      \> ***ALL YAML CONFIGURATION***.
   - I would recommend a full restart, though, to avoid any unexpected behavior.
     - ***Developer Tools*** > ***YAML*** > ***Check and restart***
-      > ***RESTART***.
+      \> ***RESTART***.
 - Enable the `arcticForest_dark` theme in your user profile.
   - ***Username in bottom-left corner*** > ***General (default first screen)***
-    > ***Browser settings*** > ***Theme***.
+    \> ***Browser settings*** > ***Theme***.
 
 ### Manual Installation
 
@@ -98,20 +98,20 @@ these instructions, please do and submit a PR!
 So, to this point, altogether, we have
 
 ```shell
-> cd $HA_ROOT/configuration
+$ cd $HA_ROOT/configuration
 
 # NOTE: the '-p' flag means that it won't error out if 'themes/' already exists
 #       and also won't overwrite
 
-> mkdir -p themes/
-> cd themes/
+$ mkdir -p themes/
+$ cd themes/
 
 # ==============================================================================
 # clone the repository
 # ==============================================================================
 
-> git clone https://github.com/mjs271/ha_afdark.git
-> cp ha_afdark/themes/ha_afdark.yaml .
+$ git clone https://github.com/mjs271/ha_afdark.git
+$ cp ha_afdark/themes/ha_afdark.yaml .
 
 # ==============================================================================
 # *** OR ***
@@ -121,7 +121,7 @@ So, to this point, altogether, we have
 
 # NOTE: the flag is a capital O ("oh"), and not a zero (0).
 
-> curl -O https://raw.githubusercontent.com/mjs271/ha_afdark/main/themes/arcticForest_dark.yaml
+$ curl -O https://raw.githubusercontent.com/mjs271/ha_afdark/main/themes/arcticForest_dark.yaml
 
 # ==============================================================================
 ```
@@ -143,10 +143,10 @@ Finally, see the [instructions above](#Once-the-ArcticForest-Dark-theme-is-insta
 
 ## Additional Images
 
-![energy](img/energy.png) | ![trace](img/trace.png)
+![trace](img/trace2.png) | ![automation](img/automation2.png)
 :-------------------------:|:-------------------------:
-![automation](img/automation.png) | ![addon](img/addon1.png)
-![addon](img/addon2.png) | ![integration](img/integration.png)
+![template](img/template2.png) | ![dev_actions](img/dev_actions2.png)
+![addon](img/addon21.png) | ![addon](img/addon22.png)
 
 <!-- ![energy](img/energy.png) -->
 
