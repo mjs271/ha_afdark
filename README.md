@@ -25,15 +25,19 @@ I also want to give credit to aFFekopp's [Noctis](https://github.com/aFFekopp/no
 
 ## Images
 
-![dashboard](img/dashboard1.png)
+![dashboard](img/dashboard1.png) | ![dashboard](img/dashboard2.png)
+:-------------------------:|:-------------------------:
+![dashboard](img/dashboard3.png) | ![dashboard](img/dashboard4.png)
 
-![dashboard](img/dashboard2.png)
+<!-- ![dashboard](img/dashboard1.png) -->
 
-![dashboard](img/dashboard3.png)
+<!-- ![dashboard](img/dashboard2.png) -->
 
-![dashboard](img/dashboard4.png)
+<!-- ![dashboard](img/dashboard3.png) -->
 
-![energy](img/energy.png)
+<!-- ![dashboard](img/dashboard4.png) -->
+
+<!-- ![energy](img/energy.png) -->
 
 ## Installation
 
@@ -139,19 +143,26 @@ Finally, see the [instructions above](#Once-the-ArcticForest-Dark-theme-is-insta
 
 ## Additional Images
 
-![automation](img/automation.png)
+![energy](img/energy.png) | ![trace](img/trace.png)
+:-------------------------:|:-------------------------:
+![automation](img/automation.png) | ![addon](img/addon1.png)
+![addon](img/addon2.png) | ![integration](img/integration.png)
+
+<!-- ![energy](img/energy.png) -->
+
+<!-- ![automation](img/automation.png) -->
 
 <!-- ![trace](img/trace.png) -->
-<img src="img/trace.png" width="700">
+<!-- <img src="img/trace.png" width="700"> -->
 
 <!-- ![addon](img/addon1.png) -->
-<img src="img/addon1.png" width="600">
+<!-- <img src="img/addon1.png" width="600"> -->
 
 <!-- ![addon](img/addon2.png) -->
-<img src="img/addon2.png" width="800">
+<!-- <img src="img/addon2.png" width="800"> -->
 
 <!-- ![integration](img/integration.png) -->
-<img src="img/integration.png" width="800">
+<!-- <img src="img/integration.png" width="800"> -->
 
 ## License
 
